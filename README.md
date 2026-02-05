@@ -2074,7 +2074,16 @@
         <div class="footer-grid">
             <div class="footer-section">
                 <a href="#inicio" class="logo" style="margin-bottom: 1rem;">
-                    <img src="gloria-logo.webp" alt="Gloria - Clínica Dental">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 192">
+  <g fill="#ece800" stroke="#000" stroke-width="5.33">
+    <path d="M34.39 121.87C64.75 86.95 125.45 16.79 125.45 16.79l52.10 56.54h-56.23l-33.21 48.87z"/>
+    <path d="M156.55 104.09l46.40-0.05 45.99 52.43-49.31-0.32z"/>
+    <path d="M108.57 98.70l15.46-21.44 165.53-0.15c13.32-0.12 21.24 9.15 18.69 16.65l-14.76 42.88c-2.48 7.30-11.50 15.04-19.40 15.04h-20.94l-22.48-23.79c10.65-0.14 15.00 0.16 23.17-0.29 5.93-1.43 6.20-5.61 7.54-10.55l2.90-18.12z"/>
+    <path d="M184.50 73.33l3.46-29.86c0.68-5.23 1.44-15.54 22.61-16.39h113.39l-3.14 16.39c-0.73 4.46-8.12 7.22-13.19 6.96l-72.87-0.45c-6.21-0.38-9.71 1.83-10.37 6.06l-0.94 8.53 16.96 8.75z"/>
+    <path d="M31.85 126.31h133.49l20.26 25.14H15.88z"/>
+  </g>
+</svg>
+
                 </a>
                 <p>
                     Clínica Dental Gloria. Tu clínica de confianza. Más de 15 años cuidando sonrisas con 
