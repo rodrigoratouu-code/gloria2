@@ -109,7 +109,7 @@
         }
         
         .header.scrolled {
-            background: rgba(255, 255, 255, 0);
+            background: rgba(255, 255, 255, 0.15);
             backdrop-filter: blur(18px);
             box-shadow: var(--shadow-md);
         }
@@ -138,6 +138,7 @@
         }
         
         .logo img {
+            width: 160px;
             height: auto;
             max-width: 100%;
             object-fit: contain;
