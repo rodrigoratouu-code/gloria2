@@ -139,7 +139,6 @@
         
         .logo img {
             height: auto;
-            width: 200px;
             max-width: 100%;
             object-fit: contain;
             transition: transform 0.3s ease;
@@ -710,10 +709,6 @@
         
         /* ========== RESPONSIVE CORREGIDO ========== */
         @media (max-width: 1024px) {
-            .logo img {
-                width: 180px;
-            }
-            
             .titulo-clinica {
                 font-size: 1.2rem;
             }
@@ -773,11 +768,7 @@
             .mobile-toggle {
                 display: flex;
             }
-            
-            .logo img {
-                width: 140px;
-            }
-            
+        
             .titulo-clinica {
                 display: none;
             }
@@ -809,7 +800,7 @@
         
         @media (max-width: 480px) {
             .logo img {
-                width: 120px;
+                width: 140px;
             }
             
             .nav-container {
